@@ -1,0 +1,9 @@
+{
+    "path" : "~/src/plan/vignettes",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
