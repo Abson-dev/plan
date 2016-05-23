@@ -16,7 +16,8 @@ to show some of the capabilities on this web page.
 The following shows how the author monitored the writing of the `burndown` functions.
 
 First, he created a text file called `burndown.dat`, with contents as follows.
-{% highlight %}
+
+{% highlight r %}
 Start,    2006-04-08 12:00:00 
 Deadline, 2006-04-11 20:00:00 
 Key, Description,             Effort
@@ -56,9 +57,8 @@ plot(burndown)
 {% endhighlight %}
 
 
-<!--
-png("burndown.png",width=7,height=4,unit="in",res=100,pointsize=10)
--->
+<!-- png("burndown.png",width=7,height=4,unit="in",res=100,pointsize=10) -->
+
 The results are as follows
 
 ![burndown](burndown.png)
