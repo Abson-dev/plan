@@ -34,8 +34,7 @@ g <- ganttAddTask(g, "Thesis work", "2016-10-01", "2018-04-01", done=30)
 g <- ganttAddTask(g, "Defend thesis proposal", "2017-05-01", "2017-06-01")
 g <- ganttAddTask(g, "Write papers & thesis", "2017-03-01", "2018-04-01")
 g <- ganttAddTask(g, "Defend thesis", "2018-05-01", "2018-05-15")
-font <- ifelse(is.na(g[["start"]]), 2, 1)
-plot(g, ylabel=list(font=font),
+plot(g, ylabel=list(font=ifelse(is.na(g[["start"]]), 2, 1)),
      event.time="2016-12-13", event.label="Report Date")
 par(lend="square") # default is round
 legend("topright", pch=22, pt.cex=2, pt.bg=gray(c(0.3, 0.9)),
