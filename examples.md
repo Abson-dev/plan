@@ -44,13 +44,21 @@ legend("topright", pch=22, pt.cex=2, pt.bg=gray(c(0.3, 0.9)),
        legend=c("Completed", "Not Yet Done"), title="MSc plan", bg="white")
 {% endhighlight %}
 
-This yields a diagram like the one given below. Comparison of the colours of
-the task components with the vertical line suggests that this student is a
-little behind on her literature review, but has kept up with her plans for the
-development of analysis tools. She is making excellent progress on her thesis
-goals. In this diagram, the writing of that proposal is included in "Thesis
-work", but when she makes a gantt diagram for her proposal, she should be far
-enough along to make plans at the chapter/paper level.
+This yields a diagram like the one given below. Here is how it might be
+interpreted, by the student ("Sally", say) and her supervisory committee...
+
+Visual comparison of the colours of the task components with the vertical line
+suggests that Sally is a bit behind on her literature review, but she is doing
+well in learning the research skills she will need for her thesis. Indeed, the
+actual thesis work is going quite a lot faster than planned. The diagram may
+motivate Sally to set aside more time for reading, because the next big event
+is a thesis-proposal defense. (We can put aside the classes as a worry, given
+the grades in Sally's first term.)
+
+This diagram is a sort of end-of-term assessment. Most likely, Sally's
+supervisor will encourage her to make a similar diagram for inclusion in her
+thesis proposal. That's still a few months away, and by then Sally should be
+able to add tasks for individual chapters and papers.
 
 ![gantt](gantt.png)
 
