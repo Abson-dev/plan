@@ -45,11 +45,10 @@ legend("topright", pch=22, pt.cex=2, pt.bg=gray(c(0.3, 0.9)),
 This yields a diagram like the one given below. Comparison of the colours of
 the task components with the vertical line suggests that this student is a
 little behind on her literature review, but has kept up with her plans for the
-development of analysis tools, and that her thesis progress is faster than
-expected. It's probably time to start organizing papers and her thesis
-proposal. Note that the writing of the proposal is included in "Thesis work"
-here; probably she will make a similar diagram for her proposal, but with task
-items for chapters and papers.
+development of analysis tools. She is making excellent progress on her thesis
+goals. In this diagram, the writing of that proposal is included in "Thesis
+work", but when she makes a gantt diagram for her proposal, she should be far
+enough along to make plans at the chapter/paper level.
 
 ![gantt](gantt.png)
 
