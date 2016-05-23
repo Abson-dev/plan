@@ -63,6 +63,9 @@ The results are as follows
 
 ![burndown](burndown.png)
 
+As is often the case with hobbyist programming work, things proceeded much
+faster than initially expected. (There is also an end-of-weekend effect at play
+here!)
 
 
 **Gantt Diagram Example**
