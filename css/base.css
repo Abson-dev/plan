@@ -273,10 +273,9 @@ pre {
     margin-right: 0.5em;
     margin-top: 1px;
     margin-bottom: 1px;
-    font-family: Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+    font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono Courier New, monospace, san-serif;
     background-color: #F5F5F5;
-    font-weight: 400;
-    font-size: 95%;
+    font-size: 13px;
     border: 1px solid rgba(0, 0, 0, 0.15);
     border-radius: 4px;
     white-space: pre-wrap;
@@ -284,7 +283,7 @@ pre {
 }
 
 code {
-    font-family: Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+    font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono Courier New, monospace, san-serif;
     background-color: #F5F5F5;
-    font-size: 95%;
+    font-size: 13px;
 }
