@@ -55,22 +55,22 @@ This yields a diagram like the one given below.
 Imagine that this diagram is a student's end-of-term assessment. How might she,
 and her advisory committee, interpret it?
 
-To begin with, the grades are good for her classes, so there's no need to worry
+To begin with, the grades are good, so there's no need to worry
 about those classes coming up in the second term. It makes sense to focus
 instead on the research component.
 
 The vertical line indicates the time the diagram was made.  Visual comparison
 of this line with the colour breaks in the task bars indicates three things.
-(a) The literature review is a quite far behind schedule. (b) She is picking up
-the analysis skills as planned, which bodes well. (c) Even better, her thesis
-work is well ahead of schedule.
+(a) The literature review is behind schedule.  (b) Progress in building up
+analysis skills is good. (c) The thesis work is ahead of schedule.
 
-The next big task is to write and defend a thesis proposal. There is some time
-for that, and the diagram indicates that some of that time should be set aside
-for reading the literature, because that will be important to both the proposal
-and the thesis.  (Also, the thesis work is coming along nicely.)
+The next big task is to write and defend a thesis proposal. If the diagram is a
+true indication, it will be important to set aside sufficient time for reading
+the literature, but this should not be a problem because the research is going
+so well.
 
-It should be obvious that this sort of reasoning will be pointless if the
-diagram does not faithfully describe the tasks and the time they might take.
-But that's the whole point of these diagrams. It is common to create them not
-just for planning, but also for monitoring progress.
+It can be helpful to regenerate such diagrams regularly throughout a research
+program, in order to assess progress and make decisions about changes to plans.
+For example, the thesis proposal would likely contain a similar diagram that
+additionally had components for sub-tasks in the research, and perhaps for
+publications or thesis chapters.
