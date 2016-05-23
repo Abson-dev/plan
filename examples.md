@@ -45,8 +45,8 @@ legend("topright", pch=22, pt.cex=2, pt.bg=gray(c(0.3, 0.9)),
 
 Comparison of the colours of the task components with the vertical line
 suggests that this student is lagging a bit on her literature review, but
-basically on-track in her development of her analysis tools, and doing very
-well on her planed thesis research.
+on-track with the development of analysis tools, and doing very well on her
+planned thesis research.
 
 ![gantt](gantt.png)
 
