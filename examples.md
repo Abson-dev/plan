@@ -42,3 +42,5 @@ legend("topright", pch=22, pt.cex=2, pt.bg=gray(c(0.3, 0.9)),
        legend=c("Completed", "Not Yet Done"), title="MSc plan", bg="white")
 ```
 
+![gantt](gantt.png)
+
