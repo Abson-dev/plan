@@ -1,1 +1,1 @@
-Webpage for plan, an R package.
+This is the webpage for plan, an R package.
