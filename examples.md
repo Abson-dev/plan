@@ -11,7 +11,11 @@ plotting gantt diagrams, and `example("plot,gantt-method")` runs some examples.
 
 There is also a brief vignette, available with `vignette("plan")`.
 
-A good way to learn is to use the built-in datasets, e.g. `data("gantt")`.
+**Burndown Chart Example**
+
+(To be added.)
+
+**Gantt Diagram Example**
 
 A complex (and realistic) example of a gantt chart for a MSc program that is
 still underway. Note that the method of generating the data is one of three
@@ -44,22 +48,28 @@ legend("topright", pch=22, pt.cex=2, pt.bg=gray(c(0.3, 0.9)),
        legend=c("Completed", "Not Yet Done"), title="MSc plan", bg="white")
 {% endhighlight %}
 
-This yields a diagram like the one given below. Here is how it might be
-interpreted, by the student ("Sally", say) and her supervisory committee...
-
-Visual comparison of the colours of the task components with the vertical line
-suggests that Sally is a bit behind on her literature review, but she is doing
-well in learning the research skills she will need for her thesis. Indeed, the
-actual thesis work is going quite a lot faster than planned. The diagram may
-motivate Sally to set aside more time for reading, because the next big event
-is a thesis-proposal defense. (We can put aside the classes as a worry, given
-the grades in Sally's first term.)
-
-This diagram is a sort of end-of-term assessment. Most likely, Sally's
-supervisor will encourage her to make a similar diagram for inclusion in her
-thesis proposal. That's still a few months away, and by then Sally should be
-able to add tasks for individual chapters and papers.
+This yields a diagram like the one given below.
 
 ![gantt](gantt.png)
 
+Imagine that this diagram is a student's end-of-term assessment. How might her
+advisory committee (and she) interpret it?
 
+To begin with, she has done well in her classes, so we should not worry about
+the upcoming classes, and can focus instead on the research component.
+
+The vertical line indicates the time the diagram was made.  Visual comparison
+of this line with the colour breaks in the task bars indicates three things.
+(a) The literature review is a quite far behind schedule. (b) She is picking up
+the analysis skills as planned, which bodes well. (c) Even better, her thesis
+work is well ahead of schedule.
+
+The next big task is to write and defend a thesis proposal. There is some time
+for that, and the diagram indicates that some of that time should be set aside
+for reading the literature, because that will be important to both the proposal
+and the thesis.  (Also, the thesis work is coming along nicely.)
+
+It should be obvious that this sort of reasoning will be pointless if the
+diagram does not faithfully describe the tasks and the time they might take.
+But that's the whole point of these diagrams. It is common to create them not
+just for planning, but also for monitoring progress.
