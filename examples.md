@@ -8,8 +8,8 @@ submenu: home
 Each `plan` function is documented, with code examples being provided in many
 cases.  For example, `help("plot,gantt-method")` provides documentation on
 plotting gantt diagrams, and `example("plot,gantt-method")` runs some examples.
-
-There is also a brief vignette, available with `vignette("plan")`.
+There is also a vignette, available with `vignette("plan")`. Still, it may help
+to show some of the capabilities on this web page.
 
 **Burndown Chart Example**
 
