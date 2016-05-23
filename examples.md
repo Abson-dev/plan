@@ -42,10 +42,14 @@ legend("topright", pch=22, pt.cex=2, pt.bg=gray(c(0.3, 0.9)),
        legend=c("Completed", "Not Yet Done"), title="MSc plan", bg="white")
 {% endhighlight %}
 
-Comparison of the colours of the task components with the vertical line
-suggests that this student is lagging a bit on her literature review, but
-on-track with the development of analysis tools, and doing very well on her
-planned thesis research.
+This yields a diagram like the one given below. Comparison of the colours of
+the task components with the vertical line suggests that this student is a
+little behind her plans for a literature review, but has kept up with her plans
+for the development of analysis tools, and exceeded her plans for her planned
+thesis research. If she starts making progress on papers, it seems likely that
+her thesis proposal will go well!
+
 
 ![gantt](gantt.png)
+
 
