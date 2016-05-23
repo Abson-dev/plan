@@ -6,13 +6,16 @@ submenu: home
 ---
 
 Each `plan` function is documented, with code examples being provided in many
-cases (try `help("plot,gantt-method")` for example, to learn about plotting
-gantt diagrams).  There is also a vignette (use `vignette("plan")` to see it).
+cases.  For example, `help("plot,gantt-method")` provides documentation on
+plotting gantt diagrams, and `example("plot,gantt-method")` runs some examples.
 
-To get your appetite whetted, below is a somewhat complex (and realistic)
-example of a gantt chart for a MSc program that is underway. A reader with
-reasonable R skills will realize that typing `?ganttAddTask` will give
-information on the key function used here.
+There is also a brief vignette, available with `vignette("plan")`.
+
+A good way to learn is to use the built-in datasets, e.g. `data("gantt")`.
+
+A complex (and realistic) example of a gantt chart for a MSc program that is
+still underway. Note that the method of generating the data is one of three
+available; other choices are `as.gantt()` and `read.gantt()`.
 
 ```R
 library("plan")
