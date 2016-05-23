@@ -17,9 +17,9 @@ to show some of the capabilities on this web page.
 
 **Gantt Diagram Example**
 
-A complex (and realistic) example of a gantt chart for a MSc program that is
-still underway. Note that the method of generating the data is one of three
-available; other choices are `as.gantt()` and `read.gantt()`.
+The code below creates a gantt chart for an imaginary MSc program that is still
+underway. It employs `new()` and `ganttAddTask()` to create the gantt data.
+This could also be done with either `as.gantt()` or `read.gantt()`.
 
 <!-- png("gantt.png",width=7,height=4,unit="in",res=100,pointsize=10) -->
 
@@ -52,11 +52,12 @@ This yields a diagram like the one given below.
 
 ![gantt](gantt.png)
 
-Imagine that this diagram is a student's end-of-term assessment. How might her
-advisory committee (and she) interpret it?
+Imagine that this diagram is a student's end-of-term assessment. How might she,
+and her advisory committee, interpret it?
 
-To begin with, she has done well in her classes, so we should not worry about
-the upcoming classes, and can focus instead on the research component.
+To begin with, the grades are good for her classes, so there's no need to worry
+about those classes coming up in the second term. It makes sense to focus
+instead on the research component.
 
 The vertical line indicates the time the diagram was made.  Visual comparison
 of this line with the colour breaks in the task bars indicates three things.
