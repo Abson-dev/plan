@@ -17,7 +17,7 @@ A complex (and realistic) example of a gantt chart for a MSc program that is
 still underway. Note that the method of generating the data is one of three
 available; other choices are `as.gantt()` and `read.gantt()`.
 
-{% highlight r linenos lineanchors %}
+{% highlight r %}
 library("plan")
 g <- new("gantt")
 g <- ganttAddTask(g, "Courses") # no times, so a heading
