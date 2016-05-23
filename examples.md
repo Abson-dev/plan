@@ -17,7 +17,7 @@ The following shows how the author monitored the writing of the `burndown` funct
 
 First, he created a text file called `burndown.dat`, with contents as follows.
 
-{% highlight r %}
+{% highlight Plain Text %}
 Start,    2006-04-08 12:00:00 
 Deadline, 2006-04-11 20:00:00 
 Key, Description,             Effort
