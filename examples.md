@@ -17,7 +17,7 @@ A complex (and realistic) example of a gantt chart for a MSc program that is
 still underway. Note that the method of generating the data is one of three
 available; other choices are `as.gantt()` and `read.gantt()`.
 
-```R
+{% highlight R linenos %}
 library("plan")
 g <- new("gantt")
 g <- ganttAddTask(g, "Courses") # no times, so a heading
@@ -40,7 +40,7 @@ par(lend="square") # default is round
 legend("topright", pch=22, pt.cex=2, pt.bg=gray(c(0.3, 0.9)),
        border="black", 
        legend=c("Completed", "Not Yet Done"), title="MSc plan", bg="white")
-```
+{% endhighlight %}
 
 Comparison of the colours of the task components with the vertical line
 suggests that this student is lagging a bit on her literature review, but
