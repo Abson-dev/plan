@@ -105,7 +105,7 @@ This yields a diagram like the one given below.
 
 ![gantt](gantt.png)
 
-How might the student and her advisory committee, interpret this diagram?
+How might the student (and her advisory committee) interpret this diagram?
 
 To begin with, the grades are good, so there's no need to worry
 about those classes coming up in the second term. It makes sense to focus
