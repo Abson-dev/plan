@@ -23,7 +23,7 @@ side"`.
 3. Respond to comments using the Github site, not by replying to email from
    Github. The problem with mail is that many people have it set up to include
 previous discussion (which is a useless distraction on the Github issue page)
-or to include contact information that is likely best left private.
+or to include contact information that ought to private.
 
 4. Provide sample code so that the developer can spend time addressing your
    issue, not trying to reproduce it. Use the <a
@@ -40,5 +40,5 @@ remaining problems.
    developer changing the source on Github. See the "Installation" tab.
 
 7. If you see something you can help with, please do so. Any github user can
-   add to an issue report.</li>
+   add to an issue report.
 
