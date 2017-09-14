@@ -11,6 +11,8 @@ plotting gantt diagrams, and `example("plot,gantt-method")` runs some examples.
 There is also a vignette, available with `vignette("plan")`. Still, it may help
 to show some of the capabilities on this web page.
 
+*These examples use the development version, not the CRAN version.*
+
 **Burndown Chart Example**
 
 The following shows how the author monitored the writing of the `burndown` functions.

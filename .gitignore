@@ -2,3 +2,4 @@ vignettes
 .Rproj.user
 plan.Rproj
 *.swp
+.Rhistory

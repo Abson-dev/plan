@@ -11,9 +11,9 @@ install.packages("plan")
 ```
  within an R session.  To get the newest version (still in development), use
 ```R
+library(devtools)
 install_github("dankelley/plan", ref="develop")
 ```
-(Remove the `ref` argument to use the more stable `master` branch.)
 
 If the previous fails, you may need to install the `devtools` package, with
 ```R
