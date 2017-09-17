@@ -3,3 +3,5 @@ vignettes
 plan.Rproj
 *.swp
 .Rhistory
+*~
+.Rapp.history
